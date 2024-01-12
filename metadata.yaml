@@ -1,0 +1,33 @@
+_repo: Mirror-for-Magistrates-Volume-2-Part-2_72465
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Haslewood, Joseph
+    birthdate: 1769
+    deathdate: 1833
+    gutenberg_agent_id: '36710'
+    url: http://www.gutenberg.org/2009/agents/36710
+    wikipedia: https://en.wikipedia.org/wiki/Joseph_Haslewood
+description: ''
+gutenberg_issued: '2023-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72465'
+language: en
+pgterms:marc905: 20210103080222haslewood
+pgterms:marc906: '1815'
+pgterms:marc907: GB
+production_note: Tim Lindell, Krista Zaleski and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aLondon :$bLackington, Allen, & Co., $c1815.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shakespeare, William, 1564-1616 -- Sources'
+- !lcsh 'Great Britain -- History -- Poetry'
+- !lcc 'PR'
+- GITenberg
+title: Mirror for Magistrates, Volume 2, Part 2
+url: http://www.gutenberg.org/ebooks/72465
